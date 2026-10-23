@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Kuzey 👋
 
-<!--
-**kuzeyoznr/kuzeyoznr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electronics Engineering student at **King's College London** (BEng, 2025–2028), focusing on **power electronics** and **embedded systems**.
 
-Here are some ideas to get you started:
+### 🔧 What I work on
+- **Embedded C:** pointers, memory management, linked lists, bit manipulation, ARM Cortex-M fundamentals
+- **PCB design:** Autodesk Fusion and KiCad (astable multivibrator LED flasher, 5 V → 3.3 V regulator board)
+- **Circuit simulation:** SPICE / LTspice, MATLAB & Simulink (state-space models, control systems)
+- **Python:** OOP, pandas, numpy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently
+- Building a C "sorting race": benchmarking bubble sort vs merge sort (O(n²) vs O(n log n))
+- Learning STM32 bare-metal programming and memory-mapped I/O
+- Exploring the overlap between **energy engineering** and **project finance**
+
+### 🏭 Experience
+- **Altay:** electro-optics / defence manufacturing (optical camera testing in a cleanroom, Fusion CAD)
+- **MAN Turkey** Volkswagen group short term intern on bus and truck production facilities
+- **Osi Elektronik** Programming and front end web design(Python/HTML)
+
+### 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/kuzey-oznur-ab7b551a8/) · kuzeyoznur9@gmail.com
